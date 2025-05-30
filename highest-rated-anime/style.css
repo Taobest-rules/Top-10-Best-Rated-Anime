@@ -1,0 +1,48 @@
+h1{color:rgb(23, 175, 31); text-align: center;}
+body{
+    background-color:aliceblue ;
+}
+.design{
+    font-size:20px; font-family:'Times new roman'; color:rgb(131, 61, 61);
+}
+span{
+    color:green;
+}
+h3{
+    color:blueviolet; font-size:20px;font-weight:100;
+}
+.lists{
+    color:rgb(13, 104, 105); font-size: large;
+}
+ol{
+    font: size 40px;
+}
+.img-size{
+  width:400px;
+  height:auto;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+p{
+    text-align: justify;
+}
+.color{
+    color:brown;
+}
+.text{
+    font-size:20px;
+}
+.test{
+    font-size:20px;
+}
+.colors{
+    color:gold
+}
+.ppp{
+    color:blue;
+}
+.colorsss{
+    color:red
+}
